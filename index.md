@@ -2,21 +2,25 @@
 
 layout: col-sidebar
 title: OWASP Data Security Top 10
-tags: example-tag
+tags: cloud data datasecurity security top10 data-security cloud-data cloud-data-security roadmap news acknowledgments
 level: 2
-type: 
-pitch: A very brief, one-line description of your project
+type: documentation
+pitch: Best practices guide for securing data, whether at rest or in motion. The guide provides information about the most major security risks for storing and moving sensitive and PII information, the challenges involved, and how to overcome them.
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+## Overview
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+Data is the most important asset many organizations posses, yet often data security is not the top priority. Data is fundamentally the only asset companies should thrive to protect. The guide provides information about the most major security risks for storing and moving sensitive and PII information, the challenges involved, and how to overcome them.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+## Purpose
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+OWASP Data Security Top 10 wants to raise awareness about the consequences of the most common data security vulnerabilities and provide basic techniques to identify and protect against them.
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+## Getting Involved
 
-type: code, tool, documentation, or other
+You do not have to be a security expert or a programmer to contribute. Contact the project leader(s) to get involved. We welcome any suggestions and comments. Possible ways to contribute:
+
+ * We are actively looking for organizations and individuals who understand data security challenges.
+ * Individuals and organizations contributing to the project will be listed on the acknowledgments page.
+

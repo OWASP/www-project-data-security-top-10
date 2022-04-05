@@ -1,2 +1,3 @@
 ### Leaders
-* [Ovidiu Cical](mailto:ovidiu.cical@gmail.com)
+
+* [Ovidiu Cical](mailto:ovidiu.cical@owasp.org)
