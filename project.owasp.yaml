@@ -1,0 +1,30 @@
+audience:
+  - breaker
+  - builder
+  - defender
+leaders:
+  - name: Ovidiu Cical
+    email: ovidiu.cical@owasp.org
+    github: ocical
+level: 2
+name: OWASP Data Security Top 10
+pitch: Best practices guide for securing data, whether at rest or in motion. The guide provides information about the most major security risks for storing
+  and moving sensitive and PII information, the challenges involved, and how to overcome them.
+repositories:
+  - name: www-project-data-security-top-10
+    url: https://github.com/OWASP/www-project-data-security-top-10
+    description: OWASP Foundation Web Repository
+tags:
+  - cloud
+  - data
+  - datasecurity
+  - security
+  - top10
+  - data-security
+  - cloud-data
+  - cloud-data-security
+  - roadmap
+  - news
+  - acknowledgments
+type: documentation
+website: https://owasp.org/www-project-data-security-top-10
